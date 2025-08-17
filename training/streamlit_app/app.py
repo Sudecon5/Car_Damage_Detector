@@ -228,8 +228,8 @@ st.write(
     """
     Have questions or need to file a claim?
     Reach out to our customer support team:
-    * **Phone:** 1-800-CAR-SHIELD (1-800-227-7443)
-    * **Email:** support@carshieldinsurance.com
+    * **Phone:** +49 15563274805
+    * **Email:** sudiptapriyam55@gmail.com
     * **Address:** Siegen,North Rhine Westaphia, DEU 57072
     """
 )
