@@ -12,7 +12,7 @@ from PIL import Image
 # Adjust this path based on where 'saved_model.pth' is located relative to model_helper.py
 # If 'model_helper.py' is in 'streamlit_app/' and 'saved_model.pth' is in 'streamlit_app/model/',
 # then the path should be "model/saved_model.pth".
-MODEL_PATH = "model/saved_model.pth" # Corrected path
+MODEL_PATH = "training/streamlit_app/model/saved_model.pth" # Corrected path
 
 # Determine the device to run the model on (GPU if available, otherwise CPU)
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
