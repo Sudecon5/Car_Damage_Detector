@@ -4,7 +4,7 @@
 
 This project implements a deep learning model to detect car breakages and classify the severity of car damage. The system uses transfer learning with state-of-the-art architectures like EfficientNet and ResNet to achieve high accuracy in damage identification.
 
-<img src="app.jpg" alt="Alt Text" width="600", height = "600",align="center">
+<img src="app.jpg" alt="Alt Text" width="1000" height = "800" align="center">
 
 ## Key Features
 
